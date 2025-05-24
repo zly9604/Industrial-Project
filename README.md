@@ -11,12 +11,11 @@ Our project for Matlab Challenge 221: **Classify Object Behavior to Enhance the 
 - **training model**: Medium Neural Network, best performance, with accuracy of 97.23% and 86.57% on validation and test sets respectively.
 
 ## Installation
-### Prerequisites
 Ensure you have **MATLAB_2024b** installed along with the following toolboxes and applications:
 
-    Driving Scenario Designer from [Automated Driving Toolbox™](https://www.mathworks.com/products/automated-driving.html): Design driving scenarios, configure sensors, and generate synthetic data.
+- Driving Scenario Designer from [Automated Driving Toolbox™](https://www.mathworks.com/products/automated-driving.html): Design driving scenarios, configure sensors, and generate synthetic data.
     
-    Classification Learner from [Statistics and Machine Learning Toolbox™](https://www.mathworks.com/products/statistics.html): Train models to classify data using supervised machine learning.
+- Classification Learner from [Statistics and Machine Learning Toolbox™](https://www.mathworks.com/products/statistics.html): Train models to classify data using supervised machine learning.
 
 ### Running the Scenarios Simulation and Trained Classifier
 Clone the repository and open scenario datasets in Driving Scenario Designer app, classification learner session in Classification Learner app.
