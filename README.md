@@ -22,7 +22,7 @@ Clone the repository and open scenario datasets in Driving Scenario Designer app
 
 ## Files
 - [scenarios](https://github.com/zly9604/Industrial-Project/tree/main/scenario) - 48 scenarios (23 safe, 25 risky), where 10 of which are randomly selected as test sets
-- [features + labels]([https://github.com/zly9604/Industrial-Project/tree/main/scenario](https://github.com/zly9604/Industrial-Project/tree/main/features%2Blabel%2010)) - Combined sensor data and labels
+- [features + labels](https://github.com/zly9604/Industrial-Project/tree/main/features%2Blabel%2010) - Combined sensor data and labels
 - [ClassificationLearnerSession.mat](https://github.com/zly9604/Industrial-Project/blob/main/ClassificationLearnerSession.mat) - Classification learner session
 - [MNN.m](https://github.com/zly9604/Industrial-Project/blob/main/MNN.m) - Medium Neural Network model program code
 
