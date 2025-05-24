@@ -2,7 +2,7 @@
 
 ## Overview
 ### Industrial-Project
-Our project for Matlab Challenge 221: **Classify Object Behavior to Enhance the Safety of Autonomous Vehicles**. This project implements a **classifier to learn the behaviors of safe and risky actors in the scenario** using **MATLAB**. 
+Our project for Matlab Challenge 221: [**Classify Object Behavior to Enhance the Safety of Autonomous Vehicles**](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles/README.md). This project implements a **classifier to learn the behaviors of safe and risky actors in the scenario** using **MATLAB**. 
 
 ## Features
 - **48 scenarios**: All realistic scenarios can be divided into three categories according to the object type - Ego vehicle with vehicles only, Ego vehicle with pedestrians only and Ego vehicle with vehicles and pedestrians.
